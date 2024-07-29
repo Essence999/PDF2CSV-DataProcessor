@@ -1,0 +1,12 @@
+
+*.log
+__pycache__/
+*.py[cod]
+
+.vscode/
+
+*.pdf
+*.csv
+*.docx
+
+*.env
